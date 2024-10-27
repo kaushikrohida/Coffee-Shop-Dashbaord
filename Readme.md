@@ -13,8 +13,7 @@ This repository contains an interactive dashboard project developed to analyze s
 5. [Usage](#usage)
 6. [Data Summary](#data-summary)
 7. [Future Enhancements](#future-enhancements)
-8. [Contributing](#contributing)
-9. [License](#license)
+8. [Conclusion](#conclusion)
 
 ## Project Description
 
