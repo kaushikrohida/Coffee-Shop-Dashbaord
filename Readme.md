@@ -130,17 +130,6 @@ To get started with this project:
    - Incorporate maps to visualize sales distribution across different regions
    - Analyze the impact of local events or weather on sales performance
 
-## Contributing
-
-We welcome contributions to improve the Coffee Shop Sales Dashboard! If you have suggestions or improvements, please follow these steps:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/AmazingFeature`)
-3. Make your changes
-4. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-5. Push to the branch (`git push origin feature/AmazingFeature`)
-6. Open a Pull Request
-
 ## Conclusion
 
 The Coffee Shop Sales Dashboard project provides a powerful tool for analyzing and visualizing sales data from multiple coffee shop locations. By leveraging this interactive dashboard, stakeholders can gain valuable insights into revenue trends, product performance, and store-specific patterns. This data-driven approach enables more informed decision-making, helping to optimize inventory management, staffing, and overall business strategies.
